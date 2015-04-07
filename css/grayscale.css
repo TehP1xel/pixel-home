@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: #2348ff;
+    color: #9c9c9c;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -54,7 +54,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #002bff;
+    color: #6d6d6d;
 }
 
 .light {
@@ -312,10 +312,10 @@ a:focus {
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #002bff;
+    border: 1px solid #ffffff;
     outline: 0;
     color: #000;
-    background-color: #002bff;
+    background-color: #ffffff;
 }
 
 ul.banner-social-buttons {
